@@ -1,4 +1,4 @@
-# Data Analist
+# Data Analyst
 
 # Education
 Bachelor of Physics Education
