@@ -1,7 +1,7 @@
 # portfolio
-#Data Analist
+Data Analist
 
-#Education
+# Education
 Bachelor of Physics Education
 
 
