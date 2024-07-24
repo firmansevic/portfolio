@@ -1,10 +1,10 @@
 # Data Analyst
 
 
-# Technical skills:
+## Technical skills:
 Python, Excels, Power BI
 
-# Education
+### Education
 Bachelor of Physics Education
 
 
