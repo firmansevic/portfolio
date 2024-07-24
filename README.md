@@ -14,4 +14,4 @@ Physics Educator
 ## Project
 [Petroleum Trade](https://github.com/firmansevic/Oil-Trade/commit/dfa971340b3db44fe0d1d0d8009dc9b062e3b4b1)
 
-[Project2: Salarie]()
+[Project2: Salarie](https://github.com/firmansevic/Oil-Trade/blob/main/salarie.ipynb)
