@@ -25,3 +25,11 @@ Physics Educator
 [<img align="left" alt="Power BI" width="30px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" style="padding-right:0px;" />][webdev]
 [<img align="left" alt="Jupyter" width="30px" src="https://jupyter.org/assets/homepage/main-logo.svg" style="padding-right:0px;" />][webdev]
 [<img align="left" alt="kaggle" width="30px" src="https://www.kaggle.com/static/images/site-logo.svg" style="padding-right:0px;" />][webdev]
+
+<br />
+<br />
+
+---
+
+
+[webdev]: https://github.com/firmansevic/firmansevic
