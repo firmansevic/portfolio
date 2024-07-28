@@ -12,7 +12,7 @@ Bachelor of Physics Education
 Physics Educator
 
 ## Project
-[Petroleum Trade](https://github.com/firmansevic/python/blob/main/coffee.ipynb)
+[Cofee](https://github.com/firmansevic/python/blob/main/coffee.ipynb)
 
 [Project2: Salarie](https://github.com/firmansevic/Oil-Trade/blob/main/salarie.ipynb)
 
