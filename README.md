@@ -12,9 +12,9 @@ Bachelor of Physics Education
 Physics Educator
 
 ## Project
-[Project 1: Cofee](https://github.com/firmansevic/python/blob/main/coffee.ipynb)
+##[Project 1: Cofee](https://github.com/firmansevic/python/blob/main/coffee.ipynb)
 
-[Project 2: Oil Trade](https://www.kaggle.com/code/firmansevic/petroleum-trade)
+###[Project 2: Oil Trade](https://www.kaggle.com/code/firmansevic/petroleum-trade)
 
 ## Tools
 
