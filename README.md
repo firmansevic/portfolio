@@ -2,7 +2,7 @@
 
 
 ## Technical skills:
-Python, Excels, Power BI
+Python, Excels, Power BI, Mysql
 
 ### Education
 Bachelor of Physics Education
